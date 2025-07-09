@@ -1,2 +1,2 @@
 # walmart-sales-mysql
-MySQL-based analysis of Walmart's sales data across branches, customer types, and product lines. Includes segmentation, anomaly detection, and strategic business insights using advanced SQL queries.
+Ongoing MySQL-based data analysis of Walmart’s sales performance. Focused on customer segmentation, branch-level performance, product line profitability, and anomaly detection using advanced SQL queries. Final insights and documentation coming soon.
