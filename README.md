@@ -1,6 +1,6 @@
 #  Walmart Sales Analysis (MySQL)
 
-This project presents an in-depth analysis of Walmart's sales performance using structured query language (SQL). It was developed as part of my Internshala Data Science course.
+This project presents an in-depth analysis of Walmart's sales performance using structured query language (SQL).
 
 ##  Objective
 
@@ -35,7 +35,7 @@ This project presents an in-depth analysis of Walmart's sales performance using 
 
 - MySQL Workbench
 - Excel (for data formatting and import)
-- Internshala-provided datasets
+- Dataset from Kaggle
 
 ---
 
