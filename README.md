@@ -39,4 +39,3 @@ This project presents an in-depth analysis of Walmart's sales performance using 
 
 ---
 
-*This is part of my Data Science Program from Internshala.*
