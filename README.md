@@ -26,10 +26,10 @@ This project was done for educational and demonstrative purposes and presents an
 
 ##  Key Insights
 
-- **Top-Performing Branch**: [insert branch name] with highest monthly revenue
-- **Most Profitable Product Line**: [insert product line] with X% of total profits
-- **Peak Sale Time**: Between [insert time range]
-- **Customer Segments**: Males spent more per invoice on average than females
+- **Top-Performing Branch**: Branch A with highest monthly revenue
+- **Most Profitable Product Line**: Food and Beverages with 35.9% of total profits
+- **Popular Payment Method by City**: Mandaley - E-wallet, Naypytaw - Cash, Yangon - E-wallet
+- **Customer Segments**: Females spent more per invoice on average than males
 
 ##  Tools Used
 
